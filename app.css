@@ -1,0 +1,86 @@
+html, body {
+	font-size: 16px;
+	height: 100%;
+	font-weight: 700;
+}
+
+/* Content */
+
+#bottDiv {
+	height: 50%;
+}
+
+#div1 {
+	background-color: hsl(179, 62%, 43%);
+}
+
+#div2 {
+	background-color: hsl(179, 62%, 48%);
+}
+
+.row {
+	color: white;
+}
+
+/* Inner Content */
+
+.padding {
+	padding: 60px;
+}
+
+#btn {
+	background-color: hsl(71, 73%, 54%);
+	color: white;
+	border-radius: 7px;
+}
+
+/* Texts */
+
+#h1 {
+	color: hsl(179, 62%, 43%);
+}
+
+#h2 {
+	color: hsl(71, 73%, 54%);
+}
+
+#h3 {
+	color: gray;
+	opacity: .5;
+}
+
+#p {
+	color: hsl(204, 43%, 93%);
+	opacity: .7;
+}
+
+a {
+	font-size: 1.2rem;
+	color: gray;
+	opacity: .5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
